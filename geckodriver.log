@@ -1,0 +1,526 @@
+1670436483463	geckodriver	INFO	Listening on 127.0.0.1:34267
+1670436484027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileszgiAt"
+1670436484868	Marionette	INFO	Marionette enabled
+1670436484877	Marionette	INFO	Listening on port 41589
+Read port: 41589
+WebDriver BiDi listening on ws://127.0.0.1:39913
+1670436485025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileszgiAt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39913/devtools/browser/9b8c7b42-11f8-4de0-8879-6db147ee184d
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+1670436489809	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 2143 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670436684144	geckodriver	INFO	Listening on 127.0.0.1:49179
+1670436684664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefG9zU0"
+1670436685403	Marionette	INFO	Marionette enabled
+1670436685409	Marionette	INFO	Listening on port 37527
+Read port: 37527
+WebDriver BiDi listening on ws://127.0.0.1:52811
+1670436685508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefG9zU0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52811/devtools/browser/cc054150-680d-4f5a-89c5-46b44e315ea9
+1670436705075	Marionette	INFO	Stopped listening on port 37527
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670436717097	geckodriver	INFO	Listening on 127.0.0.1:46721
+1670436717623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6CuM8J"
+1670436718356	Marionette	INFO	Marionette enabled
+1670436718360	Marionette	INFO	Listening on port 35419
+WebDriver BiDi listening on ws://127.0.0.1:49339
+Read port: 35419
+1670436718518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6CuM8J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49339/devtools/browser/647e14c4-73d9-4bde-8216-5f57b20c0789
+1670436811565	geckodriver	INFO	Listening on 127.0.0.1:51431
+1670436812088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "57947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem1fJBQ"
+*** You are running in headless mode.
+1670436812366	Marionette	INFO	Marionette enabled
+1670436812369	Marionette	INFO	Listening on port 43203
+Read port: 43203
+WebDriver BiDi listening on ws://127.0.0.1:57947
+1670436812436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem1fJBQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57947/devtools/browser/1adcb02b-b1ec-4eeb-b038-0f743a4de00e
+1670436821441	geckodriver	INFO	Listening on 127.0.0.1:39757
+1670436821982	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiler6tWyC"
+*** You are running in headless mode.
+1670436822234	Marionette	INFO	Marionette enabled
+1670436822237	Marionette	INFO	Listening on port 34737
+WebDriver BiDi listening on ws://127.0.0.1:59557
+Read port: 34737
+1670436822405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler6tWyC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59557/devtools/browser/a4bc0cc2-1d3a-4eaa-b648-0b5b7c3c917b
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670436826807	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 4023 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670436891314	geckodriver	INFO	Listening on 127.0.0.1:59943
+1670436891840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "56389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec2Z3YL"
+*** You are running in headless mode.
+1670436892140	Marionette	INFO	Marionette enabled
+1670436892153	Marionette	INFO	Listening on port 42159
+WebDriver BiDi listening on ws://127.0.0.1:56389
+Read port: 42159
+1670436892327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec2Z3YL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56389/devtools/browser/0df2cf48-5a2a-4f51-afed-d4480a696768
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+1670436896843	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 5195 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670436976959	geckodriver	INFO	Listening on 127.0.0.1:43789
+1670436977512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "37479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemzWZJY"
+*** You are running in headless mode.
+1670436977837	Marionette	INFO	Marionette enabled
+1670436977841	Marionette	INFO	Listening on port 35375
+WebDriver BiDi listening on ws://127.0.0.1:37479
+Read port: 35375
+1670436978031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemzWZJY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37479/devtools/browser/c6c18817-988d-4bd9-9c35-2d10b624caef
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670436982687	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 4573 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670437037919	geckodriver	INFO	Listening on 127.0.0.1:47301
+1670437038463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileijm406"
+1670437039203	Marionette	INFO	Marionette enabled
+1670437039205	Marionette	INFO	Listening on port 44511
+WebDriver BiDi listening on ws://127.0.0.1:56259
+Read port: 44511
+1670437039356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileijm406/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56259/devtools/browser/4f21fde3-acc5-4e16-ad18-308bbddd5dea
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+1670437050656	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 1013 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670437114956	geckodriver	INFO	Listening on 127.0.0.1:53789
+1670437115503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezH8gIy"
+1670437116196	Marionette	INFO	Marionette enabled
+1670437116199	Marionette	INFO	Listening on port 34637
+Read port: 34637
+WebDriver BiDi listening on ws://127.0.0.1:37695
+1670437116271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezH8gIy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37695/devtools/browser/a4a70b0b-301e-4158-83f0-5a2e9e2611e2
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670437131398	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 5757 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670437174147	geckodriver	INFO	Listening on 127.0.0.1:44781
+1670437174664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilen90FD2"
+1670437175346	Marionette	INFO	Marionette enabled
+1670437175349	Marionette	INFO	Listening on port 40911
+Read port: 40911
+WebDriver BiDi listening on ws://127.0.0.1:58985
+1670437175419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen90FD2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58985/devtools/browser/505558b7-6c67-4da4-b2ee-5da5600e72c1
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670437179533	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 2528 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670437300931	geckodriver	INFO	Listening on 127.0.0.1:58943
+1670437301457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee1JZNH"
+1670437302141	Marionette	INFO	Marionette enabled
+1670437302145	Marionette	INFO	Listening on port 39671
+Read port: 39671
+WebDriver BiDi listening on ws://127.0.0.1:37673
+1670437302230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee1JZNH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37673/devtools/browser/d663a978-f2c3-4613-8490-7a65d63b7a98
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+1670437308910	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 3892 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670437327680	geckodriver	INFO	Listening on 127.0.0.1:52073
+1670437328227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIrCsQL"
+1670437328925	Marionette	INFO	Marionette enabled
+1670437328928	Marionette	INFO	Listening on port 46265
+WebDriver BiDi listening on ws://127.0.0.1:53655
+Read port: 46265
+1670437329156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIrCsQL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53655/devtools/browser/becfee95-89b1-4640-ba16-e59d4a9eb926
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670437335212	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 6820 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670437382974	geckodriver	INFO	Listening on 127.0.0.1:47515
+1670437383515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVTydrx"
+1670437384207	Marionette	INFO	Marionette enabled
+1670437384210	Marionette	INFO	Listening on port 33511
+Read port: 33511
+WebDriver BiDi listening on ws://127.0.0.1:49563
+1670437384281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVTydrx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49563/devtools/browser/7f0ba672-d355-46c4-91cd-ec83de13fdfe
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670437389531	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670437399227	geckodriver	INFO	Listening on 127.0.0.1:41655
+1670437399772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36609" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilei6PRDH"
+1670437400459	Marionette	INFO	Marionette enabled
+1670437400462	Marionette	INFO	Listening on port 42133
+Read port: 42133
+WebDriver BiDi listening on ws://127.0.0.1:36609
+1670437400583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei6PRDH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36609/devtools/browser/a0728510-af8f-4a5b-a4af-6f6a5a99774f
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670437410119	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 1898 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670437440883	geckodriver	INFO	Listening on 127.0.0.1:45719
+1670437441426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIQUrQp"
+1670437442111	Marionette	INFO	Marionette enabled
+1670437442115	Marionette	INFO	Listening on port 37359
+Read port: 37359
+WebDriver BiDi listening on ws://127.0.0.1:47057
+1670437442191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIQUrQp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47057/devtools/browser/a129cddd-3b4d-467a-8afd-bbf784b678dc
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+1670437460125	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 6435 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670437527331	geckodriver	INFO	Listening on 127.0.0.1:42819
+1670437527876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegY0nLv"
+1670437528618	Marionette	INFO	Marionette enabled
+1670437528621	Marionette	INFO	Listening on port 38577
+Read port: 38577
+WebDriver BiDi listening on ws://127.0.0.1:51953
+1670437528712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegY0nLv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51953/devtools/browser/91924039-5d05-4f88-b672-12c95d72253a
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+1670437542610	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 4043 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670437616603	geckodriver	INFO	Listening on 127.0.0.1:40019
+1670437617148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9ZMip7"
+1670437617823	Marionette	INFO	Marionette enabled
+1670437617827	Marionette	INFO	Listening on port 37305
+Read port: 37305
+WebDriver BiDi listening on ws://127.0.0.1:53759
+1670437617899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9ZMip7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53759/devtools/browser/780bfd63-51d0-4adb-9e4e-04ab66c51833
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670437622210	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 1089 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670437772404	geckodriver	INFO	Listening on 127.0.0.1:35167
+1670437772947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh0F4R7"
+1670437773618	Marionette	INFO	Marionette enabled
+1670437773621	Marionette	INFO	Listening on port 38265
+Read port: 38265
+WebDriver BiDi listening on ws://127.0.0.1:59511
+1670437773693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh0F4R7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59511/devtools/browser/0306670a-5b7e-4f15-98fa-5e9b99bd64ba
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670437784032	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 6501 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670437919955	geckodriver	INFO	Listening on 127.0.0.1:37849
+1670437920481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexgiaky"
+1670437921153	Marionette	INFO	Marionette enabled
+1670437921157	Marionette	INFO	Listening on port 36219
+Read port: 36219
+WebDriver BiDi listening on ws://127.0.0.1:39105
+1670437921230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexgiaky/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39105/devtools/browser/10db4ba1-9898-4de9-a51c-96e6bb2bcb45
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+1670437929460	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 2437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670438008576	geckodriver	INFO	Listening on 127.0.0.1:56391
+1670438009122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileebJ3fR"
+1670438009800	Marionette	INFO	Marionette enabled
+1670438009803	Marionette	INFO	Listening on port 45659
+Read port: 45659
+WebDriver BiDi listening on ws://127.0.0.1:35679
+1670438009872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileebJ3fR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35679/devtools/browser/2f32aa9d-db73-4fc4-ba71-d3e3ce12bb57
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670438026069	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 2027 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670438093379	geckodriver	INFO	Listening on 127.0.0.1:57339
+1670438093924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAu9TgJ"
+1670438094694	Marionette	INFO	Marionette enabled
+1670438094699	Marionette	INFO	Listening on port 37161
+Read port: 37161
+WebDriver BiDi listening on ws://127.0.0.1:54617
+1670438094791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAu9TgJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54617/devtools/browser/dc62cdcd-b657-4fd2-b338-c30dc64bc49e
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670438108855	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 5485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'chrome://global/content/neterror/aboutNetErrorCodes.js'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:520:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'chrome://global/content/neterror/aboutNetErrorCodes.js'
+1670438306278	geckodriver	INFO	Listening on 127.0.0.1:44353
+1670438306811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebyMzCN"
+1670438307649	Marionette	INFO	Marionette enabled
+1670438307652	Marionette	INFO	Listening on port 40701
+Read port: 40701
+WebDriver BiDi listening on ws://127.0.0.1:51735
+1670438307742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebyMzCN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51735/devtools/browser/a785901f-5c74-4d5b-9810-be6f7536576f
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670438313615	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 5519 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670438398288	geckodriver	INFO	Listening on 127.0.0.1:39293
+1670438398834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepkQPqK"
+1670438401738	Marionette	INFO	Marionette enabled
+1670438401742	Marionette	INFO	Listening on port 39247
+Read port: 39247
+WebDriver BiDi listening on ws://127.0.0.1:57463
+1670438402280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepkQPqK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57463/devtools/browser/9a3d63bc-6fd3-4ec5-9187-a82a751f3e9c
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670438408161	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 6412 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670438472544	geckodriver	INFO	Listening on 127.0.0.1:34289
+1670438473072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDkfye7"
+1670438473853	Marionette	INFO	Marionette enabled
+1670438473857	Marionette	INFO	Listening on port 42495
+Read port: 42495
+WebDriver BiDi listening on ws://127.0.0.1:57023
+1670438473932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDkfye7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57023/devtools/browser/9c7d59fa-8d9e-456f-86fc-bce099224363
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670438482217	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 216 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+1670438643734	geckodriver	INFO	Listening on 127.0.0.1:55897
+1670438644257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerqdGeL"
+1670438644969	Marionette	INFO	Marionette enabled
+1670438644971	Marionette	INFO	Listening on port 44707
+WebDriver BiDi listening on ws://127.0.0.1:56561
+Read port: 44707
+1670438645204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerqdGeL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56561/devtools/browser/e25cf855-1b23-4d56-9d1e-06c32ea60bee
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670438653645	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 7735 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670438757827	geckodriver	INFO	Listening on 127.0.0.1:50553
+1670438758377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekip79m"
+1670438759055	Marionette	INFO	Marionette enabled
+1670438759059	Marionette	INFO	Listening on port 40341
+Read port: 40341
+WebDriver BiDi listening on ws://127.0.0.1:34055
+1670438759144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekip79m/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34055/devtools/browser/468b23cd-df28-4d40-9429-13a9161ece7e
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670438762812	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 6101 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670438793328	geckodriver	INFO	Listening on 127.0.0.1:55695
+1670438793871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1wKjNo"
+1670438794600	Marionette	INFO	Marionette enabled
+1670438794603	Marionette	INFO	Listening on port 44461
+WebDriver BiDi listening on ws://127.0.0.1:56493
+Read port: 44461
+1670438794794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1wKjNo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56493/devtools/browser/7f37f3dd-082b-4ec4-8f7f-311609fdd839
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670438799179	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 7276 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670438842371	geckodriver	INFO	Listening on 127.0.0.1:48677
+1670438842914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33571" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezjiZPX"
+1670438843607	Marionette	INFO	Marionette enabled
+1670438843610	Marionette	INFO	Listening on port 41485
+Read port: 41485
+WebDriver BiDi listening on ws://127.0.0.1:33571
+1670438843683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezjiZPX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33571/devtools/browser/0ae6c39d-fa7f-4661-a8dd-b49ab5dc488e
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+1670438852240	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 2872 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670438872701	geckodriver	INFO	Listening on 127.0.0.1:35777
+1670438873247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePE5FoT"
+1670438873928	Marionette	INFO	Marionette enabled
+1670438873934	Marionette	INFO	Listening on port 43533
+Read port: 43533
+WebDriver BiDi listening on ws://127.0.0.1:50313
+1670438874005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePE5FoT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50313/devtools/browser/f2e8b8ba-c084-424a-bf34-95c89c03bc0b
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670438877936	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 3339 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670438950500	geckodriver	INFO	Listening on 127.0.0.1:49823
+1670438951044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefpmd82"
+1670438951718	Marionette	INFO	Marionette enabled
+1670438951722	Marionette	INFO	Listening on port 44487
+Read port: 44487
+WebDriver BiDi listening on ws://127.0.0.1:48901
+1670438951794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefpmd82/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48901/devtools/browser/cc124977-8bde-4386-91d4-4e7ce1c9ddc8
+JavaScript warning: https://kiniga.com/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 47: unreachable code after return statement
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4361278558784033, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-4353327234800866, ca-pub-4361278558784033
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+1670438961219	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page pub-4982159086681057, ca-pub-4361278558784033
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/T3BTWj-SqXOOtsP36vZJ1esojObpW8ivZm_viBadolo.js line 2 > eval line 7018 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
